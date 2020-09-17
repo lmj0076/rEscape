@@ -4,7 +4,7 @@
 * 마우스 동작을 기준으로 2개의 방을 순차적으로 탕출하는 게임
 * 각 방마다 미션을 클리어 하여 조건을 만족하여야 문이 열립니다.
 * 확용 도구
-  * {방탕 라이브러리}(https://cafe.naver.com/bangtal?iframe_url=/MyCafeIntro.nhn%3Fclubid=29980462)
+  * 방탈 라이브러리 [다운](https://cafe.naver.com/bangtal?iframe_url=/MyCafeIntro.nhn%3Fclubid=29980462)
   * python
   * visualStudio
   
